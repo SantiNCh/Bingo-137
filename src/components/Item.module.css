@@ -1,0 +1,11 @@
+.item-win{
+    background-color: orange;
+    -webkit-text-stroke: medium;
+    font-size: 35px;
+}
+
+.item{
+    background-color: azure;
+    -webkit-text-stroke: medium;
+    font-size: 35px;
+}
