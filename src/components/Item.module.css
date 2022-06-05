@@ -2,10 +2,12 @@
     background-color: orange;
     -webkit-text-stroke: medium;
     font-size: 35px;
+    cursor: pointer;
 }
 
 .item{
     background-color: azure;
     -webkit-text-stroke: medium;
     font-size: 35px;
+    cursor: pointer;
 }
